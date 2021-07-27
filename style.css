@@ -1,0 +1,188 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 51%;
+    padding-bottom: 50px;
+}
+
+#sec1 {
+    position: absolute;
+    overflow: hidden;
+    background: linear-gradient(#ffff00 0%, #1dff00 25%, #00ffeb 50%, #c400ff 75%, #ff0000 100%);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    display: table;
+    opacity: 0.90;
+}
+
+.div1 {
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+#span {
+    font-family: 'Tajawal', sans-serif;
+    font-size: 40px;
+}
+
+#img1 {
+    border-radius: 50%;
+    height: 350px;
+    margin-top: 100px;
+}
+
+#info {
+    max-width: 400px;
+    text-align: center;
+    margin: 25px auto;
+    font-size: 25px;
+}
+
+.line {
+    height: 10px;
+    width: 100px;
+    background-color: black;
+}
+
+#sec2 {
+    width: 100%;
+    background: linear-gradient(#00ff9d 0%, #00c4ff 50%, #ffeb00 100%);
+    overflow: hidden;
+    padding-bottom: 20px !important;
+}
+
+.menu {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 15;
+    position: fixed;
+    list-style: none;
+    background-color: black;
+    float: none;
+    padding-top: 5px;
+    position: fixed;
+    z-index: 100000;
+}
+
+.links {
+    float: left;
+    margin: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    color: #6b0777;
+    padding: 10px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: none;
+}
+
+#sec3 {
+    background: linear-gradient(#0076ff 0%, #00ff45 100%);
+    height: 900px;
+}
+
+#sec3 iframe {
+    margin: 30px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#sec4 {
+    background: orange;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.sleeping {
+    max-height: 500px;
+    margin-top: 30px;
+    max-width: 700px;
+}
+
+.standing {
+    max-height: 500px;
+    max-width: 500px;
+    margin-top: 30px;
+}
+
+
+#mycarousel {
+    background-color: aqua;
+}
+
+.d {
+    margin: 20px;
+    font-weight: 700;
+}
+
+.h {
+    font-weight: 800;
+}
+
+df-messenger {
+   --df-messenger-bot-message: #09af02;
+   --df-messenger-button-titlebar-color: #0014ff;
+   --df-messenger-chat-background-color: #fafafa;
+   --df-messenger-font-color: white;
+   --df-messenger-send-icon: #00ffeb;
+   --df-messenger-user-message: #961100;
+  }
+
+#sec5 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    height: 50px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#cell1 {
+    margin-left: 60px;
+    padding-right: 50px;
+    padding-left: 20px;
+}
+
+#cell2 {
+    margin-left: 80px;
+    padding-right: 80px;
+    padding-left: 20px;
+}
+
+#cell3 {
+    margin-left: 90px;
+    padding-right: 100px;
+    padding-left: 20px;
+}
+
+section {
+        padding: 50px;
+}
